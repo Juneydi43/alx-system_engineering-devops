@@ -1,2 +1,2 @@
 #!/bin/bash
-group -A 3 |'root' /etc/passwd
+group -A 3 'root' /etc/passwd
